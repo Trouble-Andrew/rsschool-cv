@@ -5,7 +5,7 @@
 - **Location:** Saint Petersburg
 - **E-mail:** satyr663@gmail.com
 - **Telegram:** https://t.me/global_trouble
-***
+
 ### Skills and Proficiency:
 - HTML5, template pre-processors
 - CSS, CSS pre-processors

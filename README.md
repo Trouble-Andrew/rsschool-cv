@@ -1,1 +1,1 @@
-# Andrey Terekhov 
+# rsschool-cv

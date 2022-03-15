@@ -402,6 +402,7 @@ template {
 html {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
+  scroll-behavior: smooth;
 }
 
 html,
@@ -422,7 +423,6 @@ body {
   font-family: "", "Arial", sans-serif;
   color: #E0FBFC;
   background-color: #3D5A80;
-  scroll-behavior: smooth;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;

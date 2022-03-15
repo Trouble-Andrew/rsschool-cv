@@ -3,7 +3,7 @@
 ***
 ### Contacts
 - **Location:** Saint Petersburg
-- **E-mail:** [satyr663@gmail.com](https://t.me/global_trouble)
+- **E-mail:** [satyr663@gmail.com](satyr663@gmail.com)
 - **Telegram:** [https://t.me/global_trouble](https://t.me/global_trouble)
 
 ### Skills and Proficiency:

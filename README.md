@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Trouble-Andrew.github.io/rsschool-cv/cv

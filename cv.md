@@ -21,6 +21,7 @@
 - [HTML Academy, Javascript 1](https://assets.htmlacademy.ru/certificates/intensive/95/117192.pdf?1549277543)
 - [HTML Academy, Javascript 2](https://assets.htmlacademy.ru/certificates/intensive/137/117192.pdf?1569927193)
 - [HTML Academy, Javascript 3](https://assets.htmlacademy.ru/certificates/intensive/139/117192.pdf?1585689611)
+- [JS/FE PRE-SCHOOL 2022 (JAVASCRIPT)](https://app.rs.school/certificate/xiz66yif)
 
 ### Experience
 - Liga A, Frontend outsourcing, 07.2021 - 12.2021
